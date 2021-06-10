@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfSqlServerIdentity", "EfSqlServerIdentity\EfSqlServerIdentity.csproj", "{8F8ED293-4715-4AE6-BE45-841453996E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8ED293-4715-4AE6-BE45-841453996E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8ED293-4715-4AE6-BE45-841453996E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8ED293-4715-4AE6-BE45-841453996E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8ED293-4715-4AE6-BE45-841453996E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181F03AD-484C-4C80-A65D-55C5AC2D9366}
+	EndGlobalSection
+EndGlobal
